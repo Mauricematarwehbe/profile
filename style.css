@@ -1,0 +1,78 @@
+body {
+  background-color: #EBEBEB;
+  color: #807D7D;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family:'Open Sans', sans-serif;
+}
+
+p, a {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  width: 600px;
+  margin: 20px auto;
+  padding: 20px 40px;
+
+}
+
+.card{
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0px 3px 0px #DDDDDD;
+  text-align: center;
+}
+
+.name-red {
+  color:#DD5555;
+}
+
+a {
+  color: #E1D8EB;
+  text-decoration: none;
+}
+
+.circle-profile{
+  border-radius: 50%;
+  border:1px solid #807D7D;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn-red{
+  background-color: #DD5555;
+  padding: 10px 20px;
+  margin-top: 30px;
+}
+
+.color-white{
+  color: white;
+}
+
+.color-white:hover {
+  color: white;
+}
+
+.list-inline >li {
+  display: inline-block;
+  padding: 0px 30px;
+  text-align: center;
+  margin-top: 0 10px;
+}
+
+.list-inline {
+  text-align: center;
+  padding-left: 0px;
+}
+
+.list-inline i {
+  font-size: 30px;
+}
+
+.icon-red:hover {
+  color: #DD5555;
+}
